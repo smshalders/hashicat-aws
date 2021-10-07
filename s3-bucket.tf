@@ -3,5 +3,4 @@ module "s3-bucket" {
   version = "2.2.0"
   bucket_prefix = "steveietest145701"
   tags = "Department"
-  tags = "Billable"
 }
